@@ -35,7 +35,7 @@ nums2.length == n
 
 Follow up: The overall run time complexity should be O(log (m+n)).
  */
-
+// linear complexity
 public class MedianOfTwoSortedArrays {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         int len1 = nums1.length;
